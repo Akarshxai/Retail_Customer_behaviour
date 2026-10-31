@@ -1,0 +1,12 @@
+# Credentials & sensitive files
+.env
+*.pem
+
+# Jupyter Notebook & Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS-generated files
+.DS_Store
+Thumbs.db
